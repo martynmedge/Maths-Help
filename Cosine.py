@@ -4,7 +4,6 @@ print("1 - Input to Calculate the length of a side")
 print("2 - Input to Calculate an angle")
 
 choice = input("Enter 1 or 2: ")
-print(choice)
 if choice == "1":
     a = float(input("Enter the length of side a: "))
     b = float(input("Enter the length of side b: "))
