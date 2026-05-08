@@ -2,6 +2,15 @@
 
 A collection of Python calculations to solve GCSE / A-Level maths problems.
 
+How to use:
+1. Have python installed
+2. In your terminal, run:
+   python Main-Menu.py
+
+Shows all current calculations and allows you to select one
+
+
+
 A list of current calculations:
 
 Cosine Rule:
