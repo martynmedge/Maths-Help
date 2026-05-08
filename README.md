@@ -8,4 +8,4 @@ Calculates a missing side or angle in a triangle using the cosine rule.
 To run:
 1. Have python installed
 2. In your terminal, run:
-   python cosine_rule.py
+   python Cosine.py
