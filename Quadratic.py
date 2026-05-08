@@ -8,11 +8,11 @@ if discriminant > 0:
     root1 = (-b + math.sqrt(discriminant)) / (2*a)
     root2 = (-b - math.sqrt(discriminant)) / (2*a)
     print("Two real roots exist.")
-    print("Root 1:", root1)
-    print("Root 2:", root2)
+    print(f"Root 1: {root1:.4f}")
+    print(f"Root 2: {root2:.4f}")
 elif discriminant == 0:
     root = -b / (2*a)
     print("One real root exists.")
-    print("Root:", root)
+    print(f"Root: {root:.4f}")
 else:
     print("No real roots exist.")
