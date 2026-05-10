@@ -36,3 +36,12 @@ To run:
 1. Have python installed
 2. In your terminal, run:
    python Quadratic.py
+
+
+Grade calculator:
+Calculates your grade using raw marks / percentage based on grade boundaries that the user inputs.
+
+To run:
+1. Have python installed
+2. In your terminal, run:
+   python grades.py
